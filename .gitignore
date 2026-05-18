@@ -1,0 +1,34 @@
+# Archivos de depuración y logs
+firebase-debug.log
+*.log
+debug.log
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (si se usa)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Compilados
+dist/
+build/
+
+# Archivos temporales
+*.tmp
+*.temp
